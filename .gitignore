@@ -1,0 +1,10 @@
+/node_modules
+npm-debug.log
+/.idea
+/coverage
+/.scannerwork
+.vscode
+npm-debug*
+.DS_Store
+.nyc_output
+/public/bundle*
