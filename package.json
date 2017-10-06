@@ -1,6 +1,6 @@
 {
   "name": "@ocelot-consulting/swagger",
-  "version": "1.0.0-beta.3",
+  "version": "1.0.0-beta.4",
   "description": "The Swagger command-line. Provides Swagger utilities and project lifecycle support.",
   "keywords": [
     "swagger",
