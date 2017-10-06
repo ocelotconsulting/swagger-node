@@ -21,6 +21,7 @@
     "body-parser": "^1.18.2",
     "commander": "^2.11.0",
     "express": "^4.16.1",
+    "js-yaml": "^3.10.0",
     "opn": "^5.1.0"
   },
   "devDependencies": {
@@ -42,7 +43,6 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-standard": "^3.0.1",
-    "js-yaml": "^3.10.0",
     "node-sass": "^4.5.3",
     "open-browser-webpack-plugin": "0.0.5",
     "react": "^15.0.0",
