@@ -8,3 +8,4 @@ npm-debug*
 .DS_Store
 .nyc_output
 /public/bundle*
+*.tgz
