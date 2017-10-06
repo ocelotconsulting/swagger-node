@@ -57,8 +57,7 @@
   "scripts": {
     "start": "node bin/swagger.js",
     "webpack": "webpack",
-    "prepublishOnly": "npm run webpack",
-    "prepare": "npm i --production"
+    "prepublishOnly": "npm run webpack"
   },
   "bin": {
     "o-swagger": "bin/swagger.js"
